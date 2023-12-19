@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(to left,#dad299,#b0dab9);
+}
+
+
+
+
+.blok {
+    width: 500px;
+    height: 600px;
+    border: 10px solid red;
+    position: absolute;
+    padding: 30px;
+    left: 500px;
+    
+}
+.blok h2{
+    text-align: center;
+}
+.blok p{
+    text-align: center;
+}
